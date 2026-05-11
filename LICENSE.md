@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS ultimate Module: OCR-support & file-archiving, the #1 module. Includes OCR-support and file-archiving for a smoother macOS
 
 
 
